@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@journeyapps/wa-sqlite": "^1.2.5",
     "@powersync/react": "^1.5.3",
     "@powersync/web": "^1.22.0",
     "@supabase/supabase-js": "^2.50.0",
