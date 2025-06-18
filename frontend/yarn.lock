@@ -1565,6 +1565,11 @@
     "@types/yargs" "^17.0.8"
     chalk "^4.0.0"
 
+"@journeyapps/wa-sqlite@^1.2.5":
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/@journeyapps/wa-sqlite/-/wa-sqlite-1.2.5.tgz#76a3c141cd1132bef33e14bae4b65beab8725ffb"
+  integrity sha512-h04kyOtKoZbGG9Zslgq8K4+umeiVNvauYoR6fPFOzzacIlfnh6VWYevuFOKIM7yUIQo15q1tYOym3eDiyTsVUA==
+
 "@jridgewell/gen-mapping@^0.3.2", "@jridgewell/gen-mapping@^0.3.5":
   version "0.3.8"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.3.8.tgz#4f0e06362e01362f823d348f1872b08f666d8142"
